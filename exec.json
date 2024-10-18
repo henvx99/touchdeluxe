@@ -1,4 +1,4 @@
 {
-  "dataDeluxe": "",
-  "dataRemove": ""
+  "dataDeluxe": "settings put secure multi_press_timeout 10;settings put secure long_press_timeout 120",
+  "dataRemove": "settings put secure multi_press_timeout 400;settings put secure long_press_timeout 400"
 }
