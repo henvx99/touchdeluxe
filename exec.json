@@ -1,4 +1,4 @@
 {
-  "dataDeluxe": "settings put secure multi_press_timeout 10;settings put secure long_press_timeout 120",
-  "dataRemove": "settings put secure multi_press_timeout 400;settings put secure long_press_timeout 400"
+  "dataDeluxe": "settings put secure multi_press_timeout 10;settings put secure long_press_timeout 120;cmd game downscale 1.8 com.dts.freefireth,cmd game downscale 1.8 com.dts.freefiremax",
+  "dataRemove": "settings put secure multi_press_timeout 400;settings put secure long_press_timeout 400;cmd game downscale disable com.dts.freefireth,cmd game downscale disable com.dts.freefiremax"
 }
